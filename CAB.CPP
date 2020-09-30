@@ -75,7 +75,7 @@ public:
 		gotoxy(20,9);
 		gets(caridno);
 		gotoxy(19,11);
-		cin>>charge;
+		cin>>charge; 
 	}
 	void Showdata()
 	{
